@@ -1,2 +1,2 @@
 
-Hello world from git.
+This is changed text.
